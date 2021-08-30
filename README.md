@@ -12,7 +12,10 @@ INSTALLATION
 Please upload the index.html, css.style, and script.js files to view.
 
 SCREENSHOTS
+
 ![Screen Shot 2021-08-30 at 4 08 04 PM](https://user-images.githubusercontent.com/86323038/131405864-cb013e95-7aa0-4267-b3e4-f86e054c91f4.png)
 
 ![Screen Shot 2021-08-30 at 4 08 37 PM](https://user-images.githubusercontent.com/86323038/131405919-2e61c8c0-1bf3-4fe6-a116-0efc952eb997.png)
+
+
 
