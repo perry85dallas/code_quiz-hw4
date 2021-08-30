@@ -18,4 +18,18 @@ SCREENSHOTS
 ![Screen Shot 2021-08-30 at 4 08 37 PM](https://user-images.githubusercontent.com/86323038/131405919-2e61c8c0-1bf3-4fe6-a116-0efc952eb997.png)
 
 
+LINKS
+
+https://perry85dallas.github.io/code_quiz-hw4/
+
+RESOURCES
+
+https://www.w3schools.com/js/js_api_web_storage.asp
+https://www.w3schools.com/js/js_htmldom.asp
+https://www.w3schools.com/js/js_object_definition.asp
+https://www.youtube.com/watch?v=u_6CqjQ-L8Q
+https://www.youtube.com/watch?v=riDzcEQbX6k
+https://www.youtube.com/watch?v=f4fB9Xg2JEY
+https://www.youtube.com/watch?v=2Bpiluefkh8
+https://www.youtube.com/watch?v=3fbU4z7fPe4
 
